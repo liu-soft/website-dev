@@ -19,7 +19,7 @@ Content management systems with rich templates and plugins. Balance flexibility 
 Write original code via front-end and back-end technologies. Fully controllable interface, functions and performance, ideal for large enterprises, complex web applications and brands with exclusive design requirements. Higher time and labor costs, needing professional developers.
 ## 2. Domain Name & Web Hosting Preparation
 A website cannot go online without two core infrastructure elements: domain and hosting.
-- **Domain Name:** The unique address users input to visit your site (e.g., brandname.com). Choose short, easy-to-spell names matching your brand, and register through formal domain service providers.
+- **Domain Name:** The unique address users input to visit your site (e.g., [iuv6.com](https://www.iuv6.com)). Choose short, easy-to-spell names matching your brand, and register through formal domain service providers.
 - **Web Hosting:** A server space storing all website files, images and databases. Classification includes shared hosting (low cost for beginners), VPS hosting (independent resources for medium sites) and cloud servers (stable, scalable for large traffic websites).
 After purchase, bind the domain to the hosting server to realize normal access after deployment.
 ## 3. Website Design Stage
